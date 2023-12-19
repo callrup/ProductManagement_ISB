@@ -1,0 +1,18 @@
+Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),Priority,Status
+1205758835070290,19/10/2023,,19/10/2023,"Minimize the amount of data your app consumes by using efficient data formats, compressing images, and reducing unnecessary network requests",To do,,,,,,,Flipkart,,,Increase Customer Base,,
+1205758835070280,19/10/2023,,19/10/2023,Loyalty programs and Discount during region based Festival,To do,,,,,,,Flipkart,,,Flipkart Localisation,,
+1205758835070260,19/10/2023,,19/10/2023,Logistics and Order Delivery optimization,To do,,,,24/10/2023,,,Flipkart,,"Every product listed has high quality images and descriptions,Rewards Program as part of Customer engagement,Engagement with Vendors and shipping platform,Increase Return Policy ",,High,On track
+1205758835070260,19/10/2023,,19/10/2023,Free Amazon prime / Netflix subscription for 3 months on purchase over 5000 INR,To do,,,,,,,Flipkart,,,Increase Customer Base,,
+1205758835070250,19/10/2023,,19/10/2023,10 % cash back on Festival Sale,To do,,,,,,,Flipkart,,,Increase Customer Base,,
+1205758835070250,19/10/2023,,19/10/2023,Increase Customer Base,To do,,,,,,,Flipkart,,"10 % cash back on Festival Sale,Free Amazon prime / Netflix subscription for 3 months on purchase over 5000 INR,Minimize the amount of data your app consumes by using efficient data formats, compressing images, and reducing unnecessary network requests",,,
+1205745393411980,19/10/2023,,19/10/2023,Optimizing Product Search,To do,,,,25/10/2023,,Prioritizing user preference  ,Flipkart,,"Add City , Age , Language in search algorithm,Onboard local vendors  City and Region wise",,High,On track
+1205745393411980,19/10/2023,,19/10/2023,Flipkart Localisation,To do,,,,27/10/2023,,,Flipkart,,"Create Apps in local languages,Loyalty program  for New Memebership,10 % discount on festival sale,Loyalty programs and Discount during region based Festival",,High,On track
+1205758831673950,19/10/2023,,19/10/2023,Loyalty program  for New Memebership,Doing,,,,,,,Flipkart,,,Flipkart Localisation,,
+1205758831673950,19/10/2023,,19/10/2023,10 % discount on festival sale,Doing,,,,,,,Flipkart,,,Flipkart Localisation,,
+1205758831673960,19/10/2023,,19/10/2023,Onboard local vendors  City and Region wise,Doing,,,,,,,Flipkart,,,Optimizing Product Search,,
+1205745393411990,19/10/2023,,19/10/2023,Create Apps in local languages,Doing,,,,,,,Flipkart,,,Flipkart Localisation,,
+1205758831673960,19/10/2023,,19/10/2023,"Add City , Age , Language in search algorithm",Order Enhancement  by adding delivery timeline through shortest path algorithm,,,,,,,Flipkart,,,Optimizing Product Search,,
+1205758835070260,19/10/2023,,19/10/2023,Every product listed has high quality images and descriptions,Quality control on Order and Logistics,,,,,,,Flipkart,,,Logistics and Order Delivery optimization,,
+1205758835070270,19/10/2023,,19/10/2023,Rewards Program as part of Customer engagement,Quality control on Order and Logistics,,,,,,,Flipkart,,,Logistics and Order Delivery optimization,,
+1205758835070280,19/10/2023,,19/10/2023,Engagement with Vendors and shipping platform,Quality control on Order and Logistics,,,,,,,Flipkart,,,Logistics and Order Delivery optimization,,
+1205758835070280,19/10/2023,,19/10/2023,Increase Return Policy ,Quality control on Order and Logistics,,,,23/10/2023,,,Flipkart,,,Logistics and Order Delivery optimization,,
